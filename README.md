@@ -1,8 +1,17 @@
-# React + Vite
+# Basic Food Website Design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple food website created with HTML, CSS, and JavaScript. It features a clean and appealing design to showcase various food items and other relevant information for a restaurant or food-related website.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Homepage** showcasing popular dishes and a brief introduction.
+- **Basic Animations** and hover effects for a visually engaging user experience.
+
+## Technologies Used
+
+- **HTML** - For structuring the content, sections, and layout of the website.
+- **CSS** - For styling, layout design, and basic animations.
+- **JavaScript** - For adding interactive elements.
+
+
+![Homepage Screenshot](src/assets/homepage.png)
