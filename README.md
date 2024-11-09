@@ -1,17 +1,16 @@
-# Basic Food Website Design
+# Food Website
 
-This project is a simple food website created with HTML, CSS, and JavaScript. It features a clean and appealing design to showcase various food items and other relevant information for a restaurant or food-related website.
+This project is a food website built with React.js, designed to showcase various dishes, categories, and detailed descriptions of each food item. The site offers a user-friendly interface for users to explore menu options and learn more about each dish.
 
 ## Features
 
-- **Homepage** showcasing popular dishes and a brief introduction.
-- **Basic Animations** and hover effects for a visually engaging user experience.
+- **Homepage** showcasing popular dishes and categories.
+- **Menu Section** to browse different food categories with images, descriptions, and prices.
+- **Basic Styling** to present an attractive layout and design.
 
 ## Technologies Used
 
-- **HTML** - For structuring the content, sections, and layout of the website.
-- **CSS** - For styling, layout design, and basic animations.
-- **JavaScript** - For adding interactive elements.
-
+- **React.js** - This is for building the user interface and managing components.
+- **CSS** - For styling and layout.
 
 ![Homepage Screenshot](src/assets/homepage.png)
